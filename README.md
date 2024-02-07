@@ -1,4 +1,5 @@
-Verifiable-Voting-Dao
+Verifiable-Voting-Dao.
+
 The project aims to develop a system for verifiable on/off chain DAO voting with ballot privacy using storage proofs on the Cairo network. I'll try to explain everything below and note, this is open to further changes as time goes by and the project progresses.
 
 Verifiable DAO Voting: The project focuses on enabling voting within a decentralized autonomous organization (DAO). This involves creating a mechanism that ensures the integrity of the voting process, allowing participants to verify that their votes are counted accurately.
