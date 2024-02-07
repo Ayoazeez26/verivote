@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tableRow div {
+  @apply flex items-center px-[8px] py-[18px];
+}
+
+body {
+  position: relative;
+}
+
+.form-control label {
+  @apply text-sm font-medium leading-5;
+}
+
+.form-control input,
+.form-control textarea {
+  @apply w-full rounded-lg border-[1px] border-solid border-[#D0D5DD]
+    px-[14px] py-[10px] shadow-sm outline-none;
+}
